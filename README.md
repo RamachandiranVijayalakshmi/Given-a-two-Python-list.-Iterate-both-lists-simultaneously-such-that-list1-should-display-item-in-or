@@ -1,0 +1,1 @@
+# Given-a-two-Python-list.-Iterate-both-lists-simultaneously-such-that-list1-should-display-item-in-or
